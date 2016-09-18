@@ -17,18 +17,18 @@
 - Create a client.py file and add the code for the client (same link that server, read careful)
 - Give it a try, execute your server and then your client
 
->** Now we have the basic server/client funcionality and we are ready to add some complexty**
+> Now we have the basic server/client funcionality and we are ready to add some complexty
 
 ## Adding our requirements
 - Change the server.py to use the 38000 port and test if stops using CTRL+C
 - Add the requires functions to the server file (if you see in the file there are a function defined like def div(self,x, y)). In order to add your functions you just need to define them
 
->** Comment: add each function one by one, DO NOT add the 4 functions at once, go one by one**
+> Comment: add each function one by one, DO NOT add the 4 functions at once, go one by one
 
 - In order to show everything on the server "side" we will need to enable logging or debug as true
 - Now is time to work on your client, you need too add the two requirements to it, the --server argument that is a "must" is where you will use the argparce (https://docs.python.org/3/library/argparse.html) that we talk last days. Remember default parameter is default, but the user can use the --server parameter to use a different one
 
-> ** Comment: do not forget the "connection" loop between ports 38000-38010**
+> Comment: do not forget the "connection" loop between ports 38000-38010
 
 - Do a quick test of everything and hope this helps you :)
 
