@@ -30,5 +30,6 @@
 
 > Comment: do not forget the "connection" loop between ports 38000-38010
 
-- Do a quick test of everything and hope this helps you :)
+** Review all teh requirements one more time from the textbook and perform a quick test of everything **
+** Hope this helps you **
 
